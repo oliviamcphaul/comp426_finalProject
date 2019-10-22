@@ -12,3 +12,4 @@ TASKS
 - Allow individuals to create dating profiles that store a password, username, age, dating preferences, brief bio, and zodiac sign.
 - Successfully match accounts based on compatibility metrics
 - Integrate a social-based 3rd party API
+# datingapp
